@@ -1,0 +1,34 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+.divisor
+{
+	position: relative;
+	width: 10px;
+	background-color: transparent;
+	justify-self: flex-start;
+	transition: 0.3s;
+}
+
+.divisor::after
+{
+	content: '';
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 50%;
+	height: 50%;
+	background-color: var(--color-base-30);
+}
+
+.divisor:hover::after
+{
+	background-color: var(--color-base-40);
+}

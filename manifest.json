@@ -1,0 +1,11 @@
+{
+	"id": "collapse_left_sidebar",
+	"name": "Collapse Left Sidebar",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Collapse Left Ribbon and Left Split View to maximize the editor space.",
+	"author": "damatomos",
+	"authorUrl": "https://damatomos.com.br",
+	"fundingUrl": "https://damatomos.com.br",
+	"isDesktopOnly": true
+}
