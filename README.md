@@ -8,7 +8,7 @@ This project was created to collapse left sidebar as left-ribbon and left-split
 
 ## Manually installing the plugin
 
-- Copy over `main.js`, `styles.css`, `manifest.json` to your vault `VaultFolder/.obsidian/plugins/your-plugin-id/`.
+- Copy over `main.js`, `styles.css`, `manifest.json` to your vault `VaultFolder/.obsidian/plugins/collapse-left-sidebar-obsidian/`.
 
 ## How to use
 
